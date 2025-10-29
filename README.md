@@ -16,3 +16,6 @@ Every 5 minutes, the pipeline:
 2. **Transforms** the JSON response into a structured format.
 3. **Loads** the cleaned data into a **PostgreSQL** database.
 
+
+## Data Pipeline
+<img width="1137" height="594" alt="Weather_etl" src="https://github.com/user-attachments/assets/ff25f892-dbb9-4722-ac5d-67fbba39d6af" />
