@@ -1,4 +1,4 @@
-# ETL_Sales_Data
+# Weather ETL Pipeline
 
 ## Project Overview
 This project is an **ETL (Extract, Transform, Load)** pipeline that automatically fetches live weather data for selected cities using the **OpenWeatherMap API**, transforms it into a structured format, and loads it into a **PostgreSQL database** — all orchestrated using **Apache Airflow** running inside **Docker containers**.
@@ -61,4 +61,5 @@ weather-etl-airflow/
 4. The data is successfully uploaded to your PostgreSQL database.
 
 <img width="1169" height="244" alt="image" src="https://github.com/user-attachments/assets/83bd4c18-e52c-4938-93de-bf51a790ccde" />
+
 
